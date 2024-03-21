@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development with MERN**
 
-- 👯 I’m looking to collaborate on **searchable dropdown**
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 💬 Ask me about **Frontend Technologies**
 
